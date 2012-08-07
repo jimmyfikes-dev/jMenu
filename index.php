@@ -8,6 +8,12 @@
 
 </head>
 <body>
+<ul>
+	<li>Full documentation on <a href="http://www.myjqueryplugins.com/jMenu">MyjQueryPlugins.com/jMenu</a></li>
+	<li>Live demonstration on <a href="http://www.myjqueryplugins.com/jMenu/demo">jMenu demonstration page</a></li>
+</ul>
+<h1>jMenu plugin</h1>
+
 <ul id="jMenu">
 	<li><a class="fNiv">Category 1</a>
 		<ul>
