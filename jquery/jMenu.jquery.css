@@ -27,12 +27,6 @@
 /*******************/
 /** second niveau **/
 /*******************/
-#jMenu li:hover,
-#jMenu li ul li:hover {
-	color: #e0078c;
-	text-decoration: none;
-}
-
 #jMenu li ul {
 	display:none;
 	position:absolute;
